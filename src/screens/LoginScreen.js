@@ -1,8 +1,7 @@
 import React, {useState} from 'react';
-import {View, Text, SafeAreaView, TextInput, Image} from 'react-native';
+import {View, Text, SafeAreaView, TextInput} from 'react-native';
 import {COLORS, SIZES} from '../constants';
 import AntDesignIcon from 'react-native-vector-icons/AntDesign';
-import SignInSignUpSVG from '../../assets/images/SignInOrSignUp.svg';
 import Button from '../components/Button';
 import LoginSvg from '../Svg/LoginSvg';
 
